@@ -5,3 +5,17 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #6563ff;
+}
+
+.wrapper {}
+
+.cards .back-view img {
+    max-width: 45px;
+}
